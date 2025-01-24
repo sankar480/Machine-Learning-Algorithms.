@@ -10,7 +10,7 @@ Welcome to the Machine Learning Algorithms repository! This repository contains 
   - [Unsupervised Learning](#unsupervised-learning)
 - [Usage](#usage)
 - [Contributing](#contributing)
-- [License](#license)
+- [MIT License](#license)
 
 ## Introduction
 
@@ -62,3 +62,5 @@ To use any of the algorithms, simply clone this repository and follow the instru
 ```bash
 git clone https://github.com/sankar480/machine-learning-algorithms.git
 cd machine-learning-algorithms
+
+```
